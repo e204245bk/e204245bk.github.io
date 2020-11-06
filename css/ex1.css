@@ -1,0 +1,23 @@
+h1{
+    color: #ffffff;
+    text-align: center;
+    background: #00dfd0;
+}
+
+h3{
+    color: #ffffff;
+    text-align: center;
+    background: #00a0a0;
+}
+
+table{
+    background: aquamarine;
+}
+
+ol{
+    background-image: url(../images/kadai4_background.jpg)
+}
+
+body{
+    background-image: url(../images/wrapping020bY4.png)
+}
