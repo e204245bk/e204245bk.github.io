@@ -1,0 +1,23 @@
+h1{
+    color: #ffffff;
+    text-align: center;
+    background: #000000;
+}
+
+h2{
+    color: darkblue;
+    text-align: center;
+    background: #c0ff90;
+}
+
+h3{
+    color: blueviolet;
+}
+
+p{
+    color: chocolate
+}
+
+body{
+    background-image: url(../images/kadai3background.jpg)
+}
