@@ -1,0 +1,27 @@
+body{
+    background-image:url(../images/background_kadai4.png)
+}
+
+h1#title{
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+}
+
+h2#photografer{
+    text-align: center;
+    background-color:coral;
+    color:black;
+}
+
+h2#travel{
+    text-align: center;
+    background-color:aqua;
+    color:darkgreen;
+}
+
+h1#link{
+    text-align: center;
+    background-color:crimson;
+    color:azure;
+}
