@@ -1,0 +1,565 @@
+body{
+  width: 1200px;
+  margin: 0 auto;
+  text-align:left;
+  background-color: lightgray;
+}
+
+div.title{
+    width: 1200px;
+    height: 200px;
+    background-color:#400000;
+}
+
+div.center{
+    width: 1200px;
+    height: 1550px;
+    background-color:#dcc8b4;
+    font-size: 0;
+}
+
+div.aboutcenter{
+    width: 1200px;
+    height: 1380px;
+    background-color:#dcc8b4;
+    font-size: 0;
+}
+
+div.highlightcenter{
+    width: 1200px;
+    height: 1160px;
+    background-color:#dcc8b4;
+    font-size: 0;
+}
+
+div.ridecenter{
+    width: 1200px;
+    height: 1130px;
+    background-color:#dcc8b4;
+    font-size: 0;
+}
+
+div.vehiclecenter{
+    width: 1200px;
+    height: 4780px;
+    background-color:#dcc8b4;
+    font-size: 0;
+}
+
+div.profilecenter{
+    width: 1200px;
+    height: 1180px;
+    background-color:#dcc8b4;
+    font-size: 0;
+}
+
+div.footer{
+    width: 1200px;
+    height: 50px;
+    background-color: #400000;
+    font-size: 20px;
+    text-align: left;
+    color: white
+}
+
+div.titlemenu1{
+    display: inline-block;
+    width: 230px;
+    height: 40px;
+    text-align:center;
+    background-color: orange;
+    font-size: 25px;
+    margin-left: 6px;
+}
+
+div.titlemenu2{
+    display: inline-block;
+    width: 230px;
+    height: 40px;
+    text-align:center;
+    background-color: orange;
+    font-size: 25px;
+    margin-left: 4.75px;
+}
+
+div.titlemenu3{
+    display: inline-block;
+    width: 230px;
+    height: 40px;
+    text-align:center;
+    background-color: orange;
+    font-size: 25px;
+    margin-left: 4.75px;
+}
+
+div.titlemenu4{
+    display: inline-block;
+    width: 230px;
+    height: 40px;
+    text-align:center;
+    background-color: orange;
+    font-size: 25px;
+    margin-left: 4.75px;
+}
+
+div.titlemenu5{
+    display: inline-block;
+    width: 230px;
+    height: 40px;
+    text-align:center;
+    background-color: orange;
+    font-size: 25px;
+    margin-left: 4.75px;
+}
+
+div.address{
+    width: 1140px;
+    height: 25px;
+    margin-left: 30px;
+    background-color: #dcc8b4;
+    font-size: 20px;
+    color: #400000;
+}
+
+
+/*-----index start-----*/
+div.centermenu{
+    display: inline-block;
+    width: 1140px;
+    height: 1490px;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: white;
+}
+
+div.centerphotoback{
+    display: inline-block;
+    width: 1100px;
+    height: 800px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: black;
+}
+
+div.centerphoto{
+    display: inline-block;
+    width: 1080px;
+    height: 720px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+div.centerphotogram{
+    display: inline-block;
+    width: 1080px;
+    height: 40px;
+    margin-top: -20px;
+    margin-left: 10px;
+    text-align:center;
+    font-size: 32px;
+    color: azure;
+}
+
+div.centermenu1{
+    display: inline-block;
+    width: 540px;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+div.centermenu2{
+    display: inline-block;
+    width: 540px;
+    height: 300px;
+    margin-left: 20px;
+}
+
+div.centermenu3{
+    display: inline-block;
+    width: 540px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+div.centermenu4{
+    display: inline-block;
+    width: 540px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+/*-----index end-----*/
+
+
+/*-----about start-----*/
+div.aboutcenterbody{
+    display: inline-block;
+    width: 1140px;
+    height: 1300px;
+    margin-top: 5px;
+    margin-left: 30px;
+    background-color: white;
+}
+
+div.aboutcenterheader{
+    display: inline-block;
+    width: 1100px;
+    height: 60px;
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: red;
+}
+
+div.aboutcenterheadergram{
+    display: inline-block;
+    width: 1080px;
+    height: 60px;
+    margin-left: 10px;
+    font-size: 40px;
+    color: white;
+}
+
+div.routemapback{
+    display: inline-block;
+    width: 1100px;
+    height: 734px;
+    margin-top: 15px;
+    margin-left: 20px;
+    background-color: gray;
+}
+
+div.routemap{
+    display: inline-block;
+    width: 1098px;
+    height: 732px;
+    margin-top: 1px;
+    margin-left: 1px;
+}
+
+div.aboutcentergram{
+    display: inline-block;
+    width: 1080px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 25px;
+    color: black;
+}
+
+div.routemapattention{
+    display: inline-block;
+    width: 1080px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 40px;
+    text-align: right;
+    font-size: 16px;
+    color: black;
+}
+/*-----about end-----*/
+
+
+/*-----highlight start-----*/
+div.highlightcenterbody{
+    display: inline-block;
+    width: 1140px;
+    height: 1080px;
+    margin-top: 5px;
+    margin-left: 30px;
+    background-color: white;
+}
+
+div.highlightcenterheader{
+    display: inline-block;
+    width: 1100px;
+    height: 60px;
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: green;
+}
+
+div.highlightcenterheadergram{
+    display: inline-block;
+    width: 1080px;
+    height: 60px;
+    margin-left: 10px;
+    font-size: 40px;
+    color: white;
+}
+
+div.highlightcenterphoto{
+    display: inline-block;
+    width: 1100px;
+    height: 550px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+div.highlightcentergram{
+    display: inline-block;
+    width: 1080px;
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 25px;
+    color: black;
+}
+/*-----highlight end-----*/
+
+
+/*-----ride start-----*/
+div.ridecenterbody{
+    display: inline-block;
+    width: 1140px;
+    height: 1050px;
+    margin-top: 5px;
+    margin-left: 30px;
+    background-color: white;
+}
+
+div.ridecenterheader{
+    display: inline-block;
+    width: 1100px;
+    height: 60px;
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: blue;
+}
+
+div.ridecenterheadergram{
+    display: inline-block;
+    width: 1080px;
+    height: 60px;
+    margin-left: 10px;
+    font-size: 40px;
+    color: white;
+}
+
+div.ridecentergram{
+    display: inline-block;
+    width: 1080px;
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 25px;
+    color: black;
+}
+/*-----ride end-----*/
+
+
+/*-----vehicle start-----*/
+div.vehiclecenterbody{
+    display: inline-block;
+    width: 1140px;
+    height: 4700px;
+    margin-top: 5px;
+    margin-left: 30px;
+    background-color: white;
+}
+
+div.vehiclecenterheader{
+    display: inline-block;
+    width: 1100px;
+    height: 60px;
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: gold;
+}
+
+div.vehiclecenterheadergram{
+    display: inline-block;
+    width: 1080px;
+    height: 60px;
+    margin-left: 10px;
+    font-size: 40px;
+    color: black;
+}
+
+div.vehicleguide{
+    display: inline-block;
+    width: 1100px;
+    height: 360px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 25px;
+    color: black;
+}
+
+div.vehicleguidephoto{
+    display: inline-block;
+    width: 540px;
+    height: 360px;
+}
+
+div.vehicleguidegram{
+    display: inline-block;
+    vertical-align: top;
+    width: 540px;
+    height: 360px;
+    margin-left: 11px;
+    font-size: 25px;
+    color: black;
+    background-color: lightyellow;
+}
+
+div.vehicleguidegram500{
+    display: inline-block;
+    width: 540px;
+    height: 40px;
+    background-color: darkgreen;
+    font-size: 32px;
+    color: white;
+}
+
+div.vehicleguidegram600{
+    display: inline-block;
+    width: 540px;
+    height: 40px;
+    background-color: darkorange;
+    font-size: 32px;
+    color: black;
+}
+
+div.vehicleguidegram2100{
+    display: inline-block;
+    width: 540px;
+    height: 40px;
+    background-color: darkorchid;
+    font-size: 32px;
+    color: white;
+}
+
+div.vehicleguidegram2110{
+    display: inline-block;
+    width: 540px;
+    height: 40px;
+    background-color:darkgoldenrod;
+    font-size: 32px;
+    color: white;
+}
+
+div.vehicleguidegram9500{
+    display: inline-block;
+    width: 540px;
+    height: 40px;
+    background-color:crimson;
+    font-size: 32px;
+    color: white;
+}
+
+div.vehicleguidegram9700{
+    display: inline-block;
+    width: 540px;
+    height: 40px;
+    background-color:cornflowerblue;
+    font-size: 32px;
+    color: white;
+}
+
+div.vehicleguidegram1000{
+    display: inline-block;
+    width: 540px;
+    height: 40px;
+    background-color:yellow;
+    font-size: 32px;
+    color: black;
+}
+
+div.vehicleguidegram7000{
+    display: inline-block;
+    width: 540px;
+    height: 40px;
+    background-color:darkgray;
+    font-size: 32px;
+    color: white;
+}
+
+div.vehicleguidegram7500{
+    display: inline-block;
+    width: 540px;
+    height: 40px;
+    background-color:limegreen;
+    font-size: 32px;
+    color: white;
+}
+
+div.vehicleguidegramflower{
+    display: inline-block;
+    width: 540px;
+    height: 40px;
+    background-color:mediumvioletred;
+    font-size: 32px;
+    color: white;
+}
+
+div.vehicleguidegram100{
+    display: inline-block;
+    width: 540px;
+    height: 40px;
+    background-color:saddlebrown;
+    font-size: 32px;
+    color: white;
+}
+
+div.vehicleguidegramleafcuter{
+    display: inline-block;
+    width: 540px;
+    height: 40px;
+    background-color:aqua;
+    font-size: 32px;
+    color: black;
+}
+/*-----vehicle end-----*/
+
+
+/*-----profile start-----*/
+div.profilecenterbody{
+    display: inline-block;
+    width: 1140px;
+    height: 1100px;
+    margin-top: 5px;
+    margin-left: 30px;
+    background-color: white;
+}
+
+div.profilecenterheader{
+    display: inline-block;
+    width: 1100px;
+    height: 60px;
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: deeppink;
+}
+
+div.profilecenterheadergram{
+    display: inline-block;
+    width: 1080px;
+    height: 60px;
+    margin-left: 10px;
+    font-size: 40px;
+    color: white;
+}
+
+div.profilecenterphoto{
+    display: inline-block;
+    width: 1080px;
+    height: 770px;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+
+div.profilecentergram{
+    display: inline-block;
+    width: 1100px;
+    height: 180px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 25px;
+    color: black;
+}
+/*-----profile end-----*/
